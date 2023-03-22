@@ -1,12 +1,14 @@
-<h1 align="center">Hi 🎃, Here is liuliu</h1>
+<h1 align="center">Hi 🎃, here is liuliu.</h1>
 <h3 align="center">A curious developer from Taiwan</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=liuliuod&label=Profile%20views&color=0e75b6&style=flat" alt="liuliuod" /> </p>
 
 ## <📫> About Me </📫>
-- 🧠 I’m currently learning **React**
+- 🧠 I’m currently learning _**Rust**_.
 
-- 💬 Ask me about **everything you want to know about develop website**
+- 🪚 Know how to build products zero to one and to one hundred.
+
+- 💬 Ask me _**everything you want to know about develop website or SASS**_.
 
 <br />
 
