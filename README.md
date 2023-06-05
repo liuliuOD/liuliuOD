@@ -17,8 +17,6 @@
 
 ## <🎃> GitHub Stats </🎃>
 
-<div align="center"><img height="365px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liuliuod&layout=compact&hide_border=true" /></div>
-
 <div align="center">
   <img height="365px" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=liuliuod" alt="liuliuod" />
   <img height="365px" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liuliuod&show_icons=true&locale=en" alt="liuliuod" />
