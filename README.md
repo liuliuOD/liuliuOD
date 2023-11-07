@@ -17,8 +17,6 @@
 
 ## <🎃> GitHub Stats </🎃>
 
-<div align="center"><img height="365px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liuliuod&layout=compact&hide_border=true" /></div>
-
 <div align="center">
   <img height="365px" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=liuliuod" alt="liuliuod" />
   <img height="365px" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liuliuod&show_icons=true&locale=en" alt="liuliuod" />
@@ -32,7 +30,7 @@ Key|Value
 :--|:--
 Languages|<img src="https://img.shields.io/badge/-PHP-787CAF?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/-Python3-F9E373?style=for-the-badge&logo=Python" alt="Python3" /> <img src="https://img.shields.io/badge/-Rust-8D4004?style=for-the-badge&logo=Rust" alt="Rust" /> <img src="https://img.shields.io/badge/-JavaScript-E8D64D?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
 Frameworks|<img src="https://img.shields.io/badge/-Laravel-E44431?style=for-the-badge&logo=Laravel&logoColor=black" alt="Laravel" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" /> <img src="https://img.shields.io/badge/Django-0A2D1E?style=for-the-badge&logo=Django&logoColor=4FC08D" alt="Django" />
-Databases|<img src="https://img.shields.io/badge/-MySQL-E59439?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /><img src="https://img.shields.io/badge/MongoDB-3F3121?style=for-the-badge&logo=MongoDB&logoColor=2C664C" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+Databases|<img src="https://img.shields.io/badge/-MySQL-E59439?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /> <img src="https://img.shields.io/badge/MongoDB-3F3121?style=for-the-badge&logo=MongoDB&logoColor=2C664C" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 OS|<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 Infrastructures|<img src="https://img.shields.io/badge/AWS-EC860F?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS" /> <img src="https://img.shields.io/badge/-Docker-4A94F0?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/-Nginx-419229?style=for-the-badge&logo=Nginx&logoColor=white" alt="Nginx" />
 Marketing Datas|<img src="https://img.shields.io/badge/-GTM-3F7FE9?style=for-the-badge&logo=GoogleTagManager&logoColor=white" alt="GTM" /> <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow" />
